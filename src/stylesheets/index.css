@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Anaheim|Andika|Athiti|Bad+Script|Caveat|Coiny|Courgette|Laila|Nanum+Brush+Script|Satisfy|Tangerine|The+Girl+Next+Door');
 
-/* body {
-  margin-top: -20px;
+body {
   padding: 0;
   border: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -9,8 +8,8 @@
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: black;
-} */
+  background-color: rgba(176, 24, 206, 0.5);
+} 
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",

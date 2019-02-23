@@ -6,7 +6,7 @@ const headerStyle = {
   textAlign: "center",
   padding: "20%",
   color: "white",
-  backgroundColor: "rgba(30,30,30,0.5)"
+  // backgroundColor: "rgba(30,30,30,0.5)"
 }
 
 const Header = props => {

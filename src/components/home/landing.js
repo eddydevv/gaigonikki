@@ -5,7 +5,7 @@ const page = { title: "Welcome to GaigoNikki" }
 
 const landingStyle = {
   // backgroundImage: 'url("https://images.alphacoders.com/716/716962.jpg")',
-  backgroundColor: "rgba(122,232,12,0.3)",
+  // backgroundColor: "rgba(122,232,12,0.3)",
   // backgroundSize: "cover"
 }
 
