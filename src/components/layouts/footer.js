@@ -8,7 +8,7 @@ const footerStyle = {
 const Footer = props => {
   return (
     <footer style={footerStyle}>
-      <p>&copy;GaigoNikki</p>
+      <p>&copy; GaigoNikki</p>
     </footer>
   )
 }
