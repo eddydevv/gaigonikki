@@ -1,18 +1,10 @@
 import React from 'react'
-
-const headerStyle = {
-  fontSize: "2.4em",
-  fontFamily: ["Athiti", "sans-serif"],
-  textAlign: "center",
-  padding: "20%",
-  color: "white",
-  // backgroundColor: "rgba(30,30,30,0.5)"
-}
+import styles from '../../stylesheets/layouts/headerStyle'
 
 const Header = props => {
   return (
     <header>
-      <h2 style={headerStyle}>{props.title}</h2>
+      <h2 style={styles.headerStyle}>{props.title}</h2>
     </header>
   )
 }
